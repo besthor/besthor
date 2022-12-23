@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @besthor
-- 👀 I’m interested in ...Web dev| Frontend Dev| Mobile Dev| Mechatronics| Artificial Intelligence 
-- 🌱 I’m currently learning ...HTML5| CSS3| Sass| Tailwind CSS| Javascript | python| C| React Native| Version Control System (Git)| Django
-- 💞️ I’m looking to collaborate on ... Frontend Dev| Web dev| DevOps Eng| Mobile Dev
+- 👀 I’m interested in ...Web dev | Frontend Dev | Mobile Dev | Mechatronics | Artificial Intelligence 
+- 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | React Native | Version Control System (Git)| Django
+- 💞️ I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng |
 - 📫 How to reach me ...< +2348177614958 > < igbebestor7@gmail.com >
 
 <!---
