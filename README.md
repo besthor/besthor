@@ -8,11 +8,11 @@
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
+                                             ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-, I'm Besthor Igbe (BES`THOR)</h1>
+,                                             I'm Besthor Igbe (BES`THOR)</h1>
 <h3 align="center">Resourcefulness, Great Critical thinking and problem solving skills, Collaboration, Ability to accept feedback and strong work ethic, Interpersonal skills, Effective Oral and written communications skills.</h3>
 
 
