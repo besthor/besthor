@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web dev | Frontend Dev | Mobile Dev | Mechatronics | Artificial Intelligence 
 - 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | React Native | Version Control System (Git)| Django
 - 💞️ I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng |
-- 📫 How to reach me ...<h3 +2348177614958 /h3> <h3 igbebestor7@gmail.com /h3>
+- 📫 How to reach me ...<h3 +2348177614958</h3> <h3 igbebestor7@gmail.com</h3>
 
 <!---
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
-<p I'm Besthor Igbe (BES`THOR)</h1>/p>
+<p h2I'm Besthor Igbe (BES`THOR)</h2>
 <h2 align="center">Resourcefulness, Great Critical thinking and problem solving skills, Collaboration, Ability to accept feedback and strong work ethic, Interpersonal skills, Effective Oral and written communications skills.</h2>
 
 
