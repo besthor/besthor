@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence 
 - 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System (Git)|
 - 💞️ I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng |
-- 📫 How to reach me ...<h3 +2348177614958</h3> <h3 igbebestor7@gmail.com</h3>
+- 📫 How to reach me ...<+2348177614958> <igbebestor7@gmail.com>
 
 <!---
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
