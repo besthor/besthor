@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
-<p h2I'm Besthor Igbe (BES`THOR)</h2>
+ I'm Besthor Igbe (BES`THOR)</h1>
 <h2 align="center">Resourcefulness, Great Critical thinking and problem solving skills, Collaboration, Ability to accept feedback and strong work ethic, Interpersonal skills, Effective Oral and written communications skills.</h2>
 
 
