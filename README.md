@@ -1,8 +1,10 @@
-- 👋 <h1 Hi, I’m @besthor </h1>
-- 👀 <h1 I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence </h1> 
-- 🌱 <h1 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System | </h1>
-- 💞️ <h1 I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng | </h1>
-- 📫 <h1 How to reach me ...PHONE 08177614958 EMAIL igbebestor7@gmail.com </h1>
+<h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+ I'm Besthor Igbe, Web Dev from Nigeria </h1>
+ 
+- 👀  I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence </h1> 
+- 🌱  I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System | </h1>
+- 💞️  I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng | </h1>
+- 📫  How to reach me ...PHONE 08177614958 EMAIL igbebestor7@gmail.com </h1>
 
 <!---
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
 
-<h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
- I'm Besthor Igbe </h1>
+
 <h1 align="center">MY SKILLS :Resourcefulness, problem solving, Collaboration, Ability to accept feedback, Interpersonal skills, Effective Oral and written communications.</h1>
 
 
