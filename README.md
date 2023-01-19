@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @besthor
+- 👋 Hi, I’m @besthor 
 - 👀 I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence 
-- 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System (Git)|
+- 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System |
 - 💞️ I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng |
 - 📫 How to reach me ...PHONE 08177614958 EMAIL <igbebestor7@gmail.com>
 
@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
- I'm Besthor Igbe (BES`THOR)</h1>
-<h2 align="center">Resourcefulness, Great Critical thinking and problem solving skills, Collaboration, Ability to accept feedback, Interpersonal skills, Effective Oral and written communications skills.</h2>
+ I'm Besthor Igbe </h1>
+<h1 align="center">MY SKILLS :Resourcefulness, problem solving, Collaboration, Ability to accept feedback, Interpersonal skills, Effective Oral and written communications.</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" />
