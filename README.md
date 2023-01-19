@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @besthor 
-- 👀 I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence 
-- 🌱 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System |
-- 💞️ I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng |
-- 📫 How to reach me ...PHONE 08177614958 EMAIL <igbebestor7@gmail.com>
+- 👋 <h1 Hi, I’m @besthor </h1>
+- 👀 <h1 I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence </h1> 
+- 🌱 <h1 I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System | </h1>
+- 💞️ <h1 I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng | </h1>
+- 📫 <h1 How to reach me ...PHONE 08177614958 EMAIL igbebestor7@gmail.com </h1>
 
 <!---
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
