@@ -1,5 +1,5 @@
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
- I'm Besthor Igbe, Web Dev from Nigeria </h1>
+ I'm Besthor Igbe </h1>
  
 - 👀  I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence </h1> 
 - 🌱  I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System | </h1>
