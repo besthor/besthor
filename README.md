@@ -2,7 +2,7 @@
  I'm Besthor Igbe </h1>
  
 - 👀  I’m interested in ... Frontend Web Dev | Mobile Dev | Mechatronics | Artificial Intelligence </h1> 
-- 🌱  I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | Java Script | Version Control System | </h1>
+- 🌱  I’m currently learning ...HTML5 | CSS3| Sass | Tailwind CSS | Linux | bash | C | python | JavaScript | Version Control System | </h1>
 - 💞️  I’m looking to collaborate on ... Frontend Dev | Web dev | DevOps Eng | </h1>
 - 📫  How to reach me ...PHONE 08177614958 EMAIL igbebestor7@gmail.com </h1>
 
