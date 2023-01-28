@@ -3,7 +3,14 @@
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
 
-<div align="right">
+![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
+
+<div align="right">- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**</div>
+
+- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
+  
+  - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
+ 
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
 
 - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
@@ -21,7 +28,7 @@
 </div>
 
 <div align="right">
-  ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
+  
 </div>
 
 
