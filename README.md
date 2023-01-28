@@ -14,7 +14,7 @@ besthor/besthor is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
-<p><img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
+<p><img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
 <style>
   div {
