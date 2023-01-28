@@ -4,13 +4,9 @@
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
-
-<div align="right">- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**</div>
-
+<div aign="right">
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
-  
-  - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
- 
+
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
 
 - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
@@ -26,6 +22,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories)
 <h2 align="center"></h2>
 </div>
+
 
 <div align="right">
   
