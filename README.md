@@ -3,8 +3,6 @@
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
 
-![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
-<div aign="right">
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
 
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
@@ -20,14 +18,14 @@
 - ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories)
-<h2 align="center"></h2>
-</div>
+
+![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
 <div align="right>
-            <p>- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**<p/>
-            <p>- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**</p>
-            <p>- 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**</p>
-            <p>- 🤝  I’m looking for help with **Web Dev Job Openings**</p></div>
+            <p - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**/> <p/>
+            <p - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence** /> </p>
+            <p - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |** /> </p>
+            <p - 🤝  I’m looking for help with **Web Dev Job Openings** /> </div>
             
 
 
