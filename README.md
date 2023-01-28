@@ -16,6 +16,15 @@ You can click the Preview link to take a look at your changes.
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 <p><img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+</div>
 
 https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
 - 🔭 I’m currently working on **Python**
