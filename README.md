@@ -14,17 +14,21 @@ besthor/besthor is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
-<p><img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
+<p>
+  <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
-<style>
-  div {
-    text-align: center;
-  }
-</style>
 
+
+<p>
+  <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
+<br/>
 <div>
-  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 </div>
+
+<p>
+  <imag align="center"![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif) /></p>
+  <br/>
 
 https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
 - 🔭 I’m currently working on **Python**
@@ -90,3 +94,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/besthor7" target="blank"><img src="https://img.shields.io/twitter/follow/besthor7?logo=twitter&style=for-the-badge" alt="besthor7" /></a> </p>
 <h1 align="center">Hi 👋, I'm besthor Igbe (bes'thor)</h1>
+br/>
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+</div>
