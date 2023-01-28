@@ -1,5 +1,6 @@
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
   I'm Besthor Igbe </h1>
+<h3 align="center">A passionate, resourceful and meticulous frontend web developer from Nigeria</h3>
  
 - 🤝  A Pasionate, Resourceful and meticulous Web Develper from Nigeria.
 - 👀  I’m interested in ... Web Dev | Machine Learning | Mechatronics | Artificial Intelligence </h1> 
@@ -15,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
 <h1 align="center">Hi 👋, I'm besthor Igbe (bes'thor)</h1>
-<h3 align="center">A passionate, resourceful and meticulous frontend web developer from Nigeria</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" /> </p>
 
