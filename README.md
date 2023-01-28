@@ -7,9 +7,9 @@
 
 - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
 
-- 🤝  I’m looking for help with **Web Dev Job Openings**       - 📫  How to reach me **email igbebestor7@gmail.com**
+- 🤝  I’m looking for help with **Web Dev Job Openings**          - 📫  How to reach me **email igbebestor7@gmail.com**
 
-- ⚡ Fun fact **I Speak Fluent Sarcasm and Write Clean Codes** - 💬  Chat me on  **WhatsApp 08177614958**
+- ⚡ Fun fact **I Speak Fluent Sarcasm and Write Clean Codes**   - 💬  Chat me on  **WhatsApp 08177614958**
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
