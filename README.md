@@ -2,8 +2,6 @@
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
-<h2 align="center">A passionate, resourceful and meticulous frontend web developer from Nigeria</h2>
-  
 
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
 
@@ -18,6 +16,7 @@
 - ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories)
+<h2 align="center"></h2>
 <!---
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
