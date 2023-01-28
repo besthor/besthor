@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
 <p align="left">
-https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
+  <https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **c | Python | JavaScript | shell scripting**
@@ -33,7 +33,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="
 - 📫 How to reach me **igbebestor7@gmail.com**
 
 - ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
-</p>
+                                                          /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
