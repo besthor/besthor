@@ -13,12 +13,10 @@
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 <p>
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
-
+<p align="left">
 https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
 - 🔭 I’m currently working on **Python**
 
@@ -35,6 +33,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="
 - 📫 How to reach me **igbebestor7@gmail.com**
 
 - ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
+</p>
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 <p>
@@ -102,3 +101,6 @@ br/>
 <div>
   <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 </div>
+<p>
+  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
+<br/>
