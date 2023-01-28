@@ -15,16 +15,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![]<p>
+<p>
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
-
-
-<p>
-  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
-<br/>
-
-
 
 https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
 - 🔭 I’m currently working on **Python**
@@ -43,7 +36,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="
 
 - ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
 
-
+![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 <p>
   <imag align="right"![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif) /></p>
   <br/>
