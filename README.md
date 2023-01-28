@@ -5,27 +5,16 @@
 
 - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
 
-- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
-
 - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
 
 - 🤝  I’m looking for help with **Web Dev Job Openings**
 
-- 📫  How to reach me **email igbebestor7@gmail.com**
+- 📫  How to reach me **email igbebestor7@gmail.com** 💬  Chat me on ***WhatsApp 08177614958**
 
-- 💬  Chat me on      **WhatsApp 08177614958**
-
-- ⚡ Fun fact **I speak fluent sarcasm and write clean codes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories)
+- ⚡ Fun fact **I Speak Fluent Sarcasm and Write Clean Codes**
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
-<div align="right>
-            <p - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**/> <p/>
-            <p - 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence** /> </p>
-            <p - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |** /> </p>
-            <p - 🤝  I’m looking for help with **Web Dev Job Openings** /> </div>
             
 
 
