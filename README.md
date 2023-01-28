@@ -14,26 +14,20 @@ besthor/besthor is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p>
-  <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"height="30" width="40"/></p>
+  <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"height="500" width="300"/></p>
 <br/>
 
 <p align="left">
-<a - 🔭 I’m currently working on **Python** /></a>
-
-<a - 🌱 I’m currently learning **c | Python | JavaScript | shell scripting** /></a>
-
-<a - 👯 I’m looking to collaborate on **frontend | backend**/></a>
-
-<a - 🤝 I’m looking for help with **front end junior Job Openning**/></a>
-
-<a - 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories) /></a>
-
-<a - 💬 Ask me about **C | python | GitHub** /></a>
-
-<a - 📫 How to reach me **igbebestor7@gmail.com** /></a>
-
-<a - ⚡ Fun fact **I speak fluent sarcasm and write clean codes** /></a>
-</p>
+<a
+   - 🔭 I’m currently working on **Python**
+   - 🌱 I’m currently learning **c | Python | JavaScript | shell scripting**
+   - 👯 I’m looking to collaborate on **frontend | backend**
+   - 🤝 I’m looking for help with **front end junior Job Openning**
+   - 👨‍💻 All of my projects are available at [https://github.com/besthor?tab=repositories](https://github.com/besthor?tab=repositories)
+   - 💬 Ask me about **C | python | GitHub**
+   - 📫 How to reach me **igbebestor7@gmail.com**
+   - ⚡ Fun fact **I speak fluent sarcasm and write clean codes** /></a>
+   </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
