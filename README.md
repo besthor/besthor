@@ -23,6 +23,13 @@
 <h2 align="center"></h2>
 </div>
 
+<div align="right>
+            <p>- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**<p/>
+            <p>- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**</p>
+            <p>- 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**</p>
+            <p>- 🤝  I’m looking for help with **Web Dev Job Openings**</p>
+            </div>
+            
 
 <div align="right">
   
