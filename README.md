@@ -7,7 +7,7 @@
 
 - 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
 
-- 🤝  I’m looking for help with **Web Dev Job Opennings**
+- 🤝  I’m looking for help with **Web Dev Job Openings**
 
 - 📫  How to reach me **email igbebestor7@gmail.com**
 
@@ -21,4 +21,4 @@
 besthor/besthor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<h1 ><align="right"><img src="https://github.com/NwabuezeFranklin/NwabuezeFranklin.git"></h1>
