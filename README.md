@@ -22,12 +22,10 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" /></p>
 <br/>
-<div>
-  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-</div>
+
 
 <p>
-  <imag align="center"![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif) /></p>
+  <imag align="right"![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif) /></p>
   <br/>
 
 https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor
@@ -103,4 +101,8 @@ br/>
 
 <div>
   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+</div>
+
+<div>
+  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 </div>
