@@ -3,13 +3,13 @@
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
 
-- 👀  I’m interested in ... **Web Dev | Machine Learning | Mechatronics | Artificial Intelligence**
+- 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence**
 
-- 🌱  I’m currently learning **| C | Python | JavaScript | Bash |**
+- 🌱  I’m currently learning ... **| C | Python | JavaScript |**
 
-- 🤝  I’m looking for help with **Web Dev Job Openings**          - 📫  How to reach me **email igbebestor7@gmail.com**
+- 🤝  I’m looking for connections with... **Junior/Intern Positions**          - 📧  How to reach me **email igbebestor7@gmail.com**
 
-- 😂 Fun fact **I Speak Fluent Sarcasm and Write Clean Codes**   - 💬  Chat me on  **WhatsApp 08177614958**
+- 🙂 Fun fact ... **I Speak Fluent Sarcasm and Write Clean Codes**   - 💬  Let's interact on  **WhatsApp 08177614958**
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
@@ -18,9 +18,8 @@
 
 <h2 align="left">GitHub Stats:</h2>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" > <img align="right" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" /> </p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" /> </p>
 <br/>
 <p>&nbsp:<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" /></p>
 <br/>
