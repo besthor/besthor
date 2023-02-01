@@ -5,7 +5,7 @@
 
 - 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence |**
 
-- 🌱  I’m currently learning ... **| C | Python | JavaScript |**
+- 🌱  I’m currently learning ... **| C | Python | JavaScript | Ruby | Bash |**
 
 - 🤝  I’m looking for connections with... **Junior/Intern Job Positions**          - 📧  How to reach me **E-mail  igbebestor7@gmail.com**
 
