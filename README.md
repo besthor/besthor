@@ -3,7 +3,7 @@
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Web Developer From Nigeria </h2>
 
-- 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence |**
+- 👀  I’m interested in ... *| Web Dev | Machine Learning | Artificial Intelligence |*
 
 - 🌱  I’m currently learning ... **| Python | C | JavaScript | Bash | Ruby | MySQL |**
 
