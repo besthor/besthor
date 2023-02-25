@@ -18,11 +18,11 @@
 
 <h2 align="left">GitHub Stats:</h2>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" > <img align="left" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" width="400" height="200" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" width="400" height="150" > <img align="left" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" width="400" height="150" /> </p>
 <br/>
 <br/>
 <br/>
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" /></p>
+<p> <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" /></p>
 <br/>
 <!---
 <!---
