@@ -18,7 +18,7 @@
 
 <h2 align="left">GitHub Stats:</h2>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" > <img align="left" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" width="200" height="500" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" > <img align="left" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en&theme=dark" alt="besthor" width="500" height="250" /> </p>
 <br/>
 <br/>
 <br/>
