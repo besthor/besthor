@@ -10,7 +10,7 @@
 - 🤝  I’m looking for connections with... **Junior/Intern Positions**          - 📧  How to reach me **E-mail  igbebestor7@gmail.com**
 
 - 🙂 Fun fact ... **I Speak Fluent Sarcasm and Write != (Bugs_free Codes)**   - 💬  Let's interact on  **WhatsApp 08177614958**
-# 
+
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
 ## Languages and Tools.
