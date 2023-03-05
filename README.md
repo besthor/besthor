@@ -1,4 +1,3 @@
-![](https://cdn.vectorstock.com/i/preview-1x/58/92/abstract-technology-concept-circuit-board-high-vector-43785892.webp)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" /> </p>
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
   I'm Besthor Igbe </h1>
