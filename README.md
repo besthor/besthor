@@ -5,15 +5,15 @@
 
 - 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence | Future Machines |**
 
-- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React |**
+- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React.js | Node.js **
 
-- 🤝  I’m looking for connections with... **Junior/Intern Positions**         
+- 🤝  I’m looking for connections with... **| Junior/Intern Positions |**         
 
-- 🙂 Fun fact ... **I Speak Fluent Sarcasm and Write != (Bugs-free_Codes)**  
+- 🙂 Fun fact ... **| I Speak Fluent Sarcasm and Write != (Bugs-free_Codes) |**  
 
-- 📧  Reach  me on **E-mail  igbebestor7@gmail.com** 
+- 📧  Reach  me on... **| E-mail  igbebestor7@gmail.com |** 
 
-- 💬  Lets interact  on  **WhatsApp 08177614958**
+- 💬  Lets interact  on...  **| WhatsApp 08177614958 |**
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
