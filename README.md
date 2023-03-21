@@ -5,7 +5,7 @@
 
 - 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence | Future Machines |**
 
-- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React.js | Node.js **
+- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React.js | Node.js |**
 
 - 🤝  I’m looking for connections with... **| Junior/Intern Positions |**         
 
