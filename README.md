@@ -3,7 +3,7 @@
   I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Meticulous Full Stack Developer From Nigeria </h2>
 
-- 👀  I’m interested in ... **| Full Stack Dev | Machine Learning | Artificial Intelligence |**
+- 👀  I’m interested in ... **| Web Dev | Machine Learning | Artificial Intelligence | Future Machines |**
 
 - 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React |**
 
@@ -11,7 +11,9 @@
 
 - 🙂 Fun fact ... **I Speak Fluent Sarcasm and Write != (Bugs-free_Codes)**  
 
-- 📧  Reach  me on **E-mail  igbebestor7@gmail.com**  - 💬  Lets interact  on  **WhatsApp 08177614958**
+- 📧  Reach  me on **E-mail  igbebestor7@gmail.com** 
+
+- 💬  Lets interact  on  **WhatsApp 08177614958**
 
 ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 
