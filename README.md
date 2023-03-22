@@ -20,7 +20,7 @@
 <h2 align="left">GitHub Stats:</h2>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besthor&show_icons=true&locale=en&layout=compact&theme=dark" alt="besthor" width="450" height="150" > 
-  <br> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="450" height="150"/> </p>
+  <br> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="450" height="150"/> </p> </br>
 <br/>
 <!---
 <!---
