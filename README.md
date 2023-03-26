@@ -5,7 +5,7 @@
 
 - 👀  I’m interested in ... **| Web Dev | DevOps | Machine Learning | Artificial Intelligence |**
 
-- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | MySQL | React.js | Node.js |**     
+- 🌱  I’m currently learning ... **| C | Python | JavaScript | Bash | Ruby | Puppet | MySQL | React.js | Node.js |**     
 
 - 🙂 Fun fact about me... **I Speak Fluent Sarcasm and Write != (Bugs-free_Codes)**  
 
