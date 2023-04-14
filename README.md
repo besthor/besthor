@@ -37,6 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&locale=en" alt="besthor" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&" alt="besthor" /></p>
 <!---
 <!---
 <!---
