@@ -1,11 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" /> </p>
 <h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1></br> 
-#
-  ![](https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif)
 <h2 style="font-family:script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2>
 
-# About Me
+# Get to Know Me
 - 👀  I’m interested in ... **| Web Dev | DevOps | Machine Learning | Artificial Intelligence |**
 
 - 🌱  I’m currently learning ... **| shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**     
