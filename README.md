@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="60" /></a>
 <a href="https://stackoverflow.com/users/bestor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bestor" height="30" width="60" /></a>
