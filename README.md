@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" /> </p>
 <h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2></br>
