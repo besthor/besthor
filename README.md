@@ -9,9 +9,9 @@
 
 - 🌱   I’m currently learning ... **| shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
 
-- 🙂  Fun fact about me... **I Speak Fluent Sarcasm and I write clean codes** - 💬   Lets interact  on...  ***WhatsApp 08177614958***
+- 🙂  Fun fact about me... **I Speak Fluent Sarcasm and I write clean codes** - 💬   Lets interact on...  ***WhatsApp 08177614958***
 
-- 🤝  **I'm also Open for collaborations and Remote Job Recommendations**   - 📧   Please Reachout on... ***E-mail  igbebestor7@gmail.com***
+- 🤝  **I'm also Open for collaborations and Remote Job Recommendations**   - 📧   Please Reachout on... ***igbebestor7@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
