@@ -2,7 +2,7 @@
 
 <h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
-<h2 style="font-family:Rockwell;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2></br>
+<h2 style="font-family: Segoe Script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2></br>
 
 ## `Get to Know Me`
 - 👀   `I’m interested in...` **| Web Dev | DevOps | Machine Learning | Artificial Intelligence |**
