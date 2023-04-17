@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" />
 
 <h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
-  <br>Pleased to meet you, I'm `Besthor Igbe` </h1>
+  <br>Pleased to meet you, I'm Besthor Igbe </h1>
 <h2 style="font-family:script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2></br>
 
 # `Get to Know Me`
@@ -13,9 +13,9 @@
 
 - 🤝  **`I'm also Open for collaborations and Remote Job Recommendations`**
 
-- 📧   `Please Reachout on`... ***`igbebestor7@gmail.com`***        - 💬   `Lets interact on`...  ***`WhatsApp 08177614958`***
+- 📧   `Please Reachout on`... ***igbebestor7@gmail.com***        - 💬   `Lets interact on`...  **WhatsApp 08177614958**
 
-<h3 align="left"> `Connect with me:` </h3>
+<h3 align="left">`Connect with me:`</h3>
 <p align="left">
 <a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
