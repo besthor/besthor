@@ -38,9 +38,9 @@
 
 
 # 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=false" width="400" height="300" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Besthor's github stats" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=false" width="600" height="300" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Besthor's github stats" width="600" height="300" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="600" height="300" /></p>
 <br/>
 <!---
 <!---
