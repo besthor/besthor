@@ -5,9 +5,9 @@
 <h2 style="font-family: Segoe Script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria </h2></br>
 
 ## `Get to Know Me`
-- 👀   `I’m interested in...` **| Web Dev | DevOps | Machine Learning | Artificial Intelligence |**
+- 👀   `I’m interested in...` **| Web Dev | Machine Learning | Artificial Intelligence |**
 
-- 🌱   `I’m currently learning...` **| shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
+- 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js | DevOps | SysAdmin & Security |**
 
 - 🙂  `Fun fact about me...` **I Speak Fluent Sarcasm and I write clean codes** 
 
