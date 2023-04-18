@@ -11,7 +11,7 @@
 
 - 🙂  `Fun fact about me...` **I Speak Fluent Sarcasm and I write clean codes** 
 
-- 🤝  **`I'm also Open for collaborations and Remote Job Recommendations`**
+- 🤝  **`I'm open to collaborations and recommendations for remote jobs as well`**
 
 - 📧   `Please Reachout on...` ***igbebestor7@gmail.com***        
 
