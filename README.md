@@ -5,6 +5,7 @@
 <h2 style="font-family: Segoe Script;" align="center"> A Resourceful and Adaptable Full Stack Developer From Nigeria .I'm excited to explore new opportunities and connect with like-minded professionals. If you're looking for a dedicated collaborator or know of any exciting remote job openings, I'd love to hear from you. Let's make something great together!</h2></br>
 
 ## `Get to Know Me`
+I'm excited to explore new opportunities and connect with like-minded professionals. If you're looking for a dedicated collaborator or know of any exciting remote job openings, I'd love to hear from you. Let's make something great together!
 - 👀   `I’m interested in...` **| Web Dev | DevOps | SysAdmin & Security | Machine Learning | Artificial Intelligence |**
 
 - 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
