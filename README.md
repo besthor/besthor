@@ -6,15 +6,15 @@
 
 ## `Get to Know Me`
 
-- 👀   `I’m interested in...` **| Web Dev | DevOps | Ethical Hacking | Machine Learning | Artificial Intelligence |**
+- 👀   `I’m interested in...`      **| Web Dev | DevOps | Ethical Hacking | Machine Learning | Artificial Intelligence |**
 
 - 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
 
-- 📧   `Please Reachout on...` ***igbebestor7@gmail.com***  
+- 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  
 
-- 🙂  `Fun fact about me...` **I mean, who wouldn't want to hang out with someone who's constantly dripping with sarcasm while also being able to write code that's cleaner than a freshly-mopped floor?** 
+- 🙂  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor?** 
       
-- 💬   `Lets interact on...`  **WhatsApp 08177614958**
+- 💬   `Lets interact on...`       **WhatsApp 08177614958**
 
 ## `Connect with me`
 <p align="left">
