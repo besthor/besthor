@@ -12,21 +12,16 @@
 
 - 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  
 
-- 🙂  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor?** 
+- 🙂  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor** 
       
 - 💬   `Lets interact on...`       **WhatsApp 08177614958**
 
 ## `Connect with me`
+
 <p align="left">
-<a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bestor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bestor" height="30" width="40" /></a>
+<a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="40" /></a>
 <a href="https://instagram.com/_besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="30" width="40" /></a>
-<a href="https://hashnode.com/@besthor.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@besthor.tech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/besthor.geeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor.geeks" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="besthor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="besthor" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="besthor" height="30" width="40" /></a>
 </p>
 
 
