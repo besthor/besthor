@@ -3,7 +3,7 @@
 <h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
 ```
-<h3 style="font-family: Segoe Script;" align="center"> If you're looking for a Resourceful, Skilled and Adaptable Developer to join your team or know of any exciting remote job openings (paid or Unpaid), I'd love to hear from you!. I'm thrilled to explore new opportunities, collaborate and connect with like-minded professionals. Let's make something great together!</h3></br>
+If you're looking for a Resourceful, Skilled and Adaptable Developer to join your team or know of any exciting remote job openings (paid or Unpaid), I'd love to hear from you!. I'm thrilled to explore new opportunities, collaborate and connect with like-minded professionals. Let's make something great together!
 ```
 ## `Get to Know Me`
 
