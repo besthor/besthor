@@ -14,7 +14,7 @@
 
 - 🙂  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor** 
       
-- 💬   `Lets interact on...`       **WhatsApp 08177614958**
+- 💬   `Lets interact on...`       **WhatsApp +2348177614958**
 
 ## `Connect with me`
 
