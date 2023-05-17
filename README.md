@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="600" height="200" /></p>
 <br/>
 
-# Thank you for visiting my profile, and I look forward to connecting with you!
+<h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
 <h2> If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
 
 ## Thank you for your support!
