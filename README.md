@@ -38,7 +38,9 @@
 <br/>
 
 # `Thank you for visiting my profile, and I look forward to connecting with you!`
-## If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor Thank you for your support!
+## If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link `www.github.com/besthor` 
+<br>
+Thank you for your support!
 <!---
 <!---
 <!---
