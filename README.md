@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" />
 
-<h1 style="font-family:script;" align="center"> Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
-  <br>Pleased to meet you, I'm Besthor Igbe </h1>
-<h3 style="font-family: Segoe Script;" align="center"> If you're looking for a Resourceful, Skilled and Adaptable Developer to join your team or know of any exciting remote job openings paid or Unpaid, I'd love to hear from you!. I'm thrilled to explore new opportunities, collaborate and connect with like-minded professionals. Let's make something great together!</h3></br>
+<h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
+  <br>Pleased to meet you, I'm Besthor Igbe</h1>
+<h3 style="font-family: Segoe Script;" align="center"> I am always eager to connect with Tech-Newbies, Professionals, Mentors, and potential Collaborators. If you are interested in discussing a project, sharing insights, or exploring opportunities, please feel free to reach out to me. Searching for a Resourceful, Skilled and Adaptable Developer to join your team? or know of any exciting remote job openings paid or Unpaid?, I'd love to hear from you!. Let's connect and create something remarkable together! Thank you for visiting my profile, and I look forward to connecting with you! </h3></br>
 
-## `Get to Know Me`
+## `Get to Know Me More`
 
 - 👀   `I’m interested in...`      **| Web Dev | DevOps | Ethical Hacking | Machine Learning | Artificial Intelligence |**
 
