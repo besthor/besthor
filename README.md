@@ -2,7 +2,7 @@
 
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe</h1>
-<h3 style="font-family: Segoe Script;" align="center"> Always eager to connect with Tech-newbies, Professionals, Mentors, and potential Collaborators. If you are interested in discussing a project, sharing insights, exploring opportunities, Searching for a Resourceful, Skilled and Adaptable Developer to join your team or know of any exciting remote job openings paid or Unpaid?, I'd love to hear from you. please feel free to reach out to me. Let's connect and create something remarkable together! Thank you for visiting my profile, and I look forward to connecting with you! </h3></br>
+<h3 style="font-family: Segoe Script;" align="center"> I am adaptable, resourceful and meticulous Full-stack developer. I am Open to connecting with tech-newbies, professionals, mentors, and potential collaborators. If you want to discuss a project, share insights, explore opportunities, or in need of a skilled developer to join your team, reach out to me. Let's create something remarkable together! Thank you for visiting my profile, and I look forward to connecting with you! </h3></br>
 
 ## `Get to Know Me`
 
