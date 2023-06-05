@@ -12,9 +12,9 @@
 
 - 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  
 
-- 😅  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor**
+- 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write code that's cleaner than a freshly-mopped floor**
       
-- 💬   `Lets interact on...`       **WhatsApp +2348177614958**
+- 💬   `Lets interact on...`       ***WhatsApp +2348177614958***
 
 <h2> If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
 
