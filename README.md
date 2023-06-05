@@ -16,12 +16,15 @@
       
 - 💬   `Lets interact on...`       **WhatsApp +2348177614958**
 
+<h2> If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
+
 ## `Connect with me`
 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
-<a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="40" /></a>
 <a href="https://instagram.com/_besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="30" width="40" /></a>
+<a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="30" width="40" /></a>
+
 </p>
 
 
@@ -38,7 +41,6 @@
 <br/>
 
 <h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
-<h2> If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
 
 ## Thank you for your support!
 <!---
