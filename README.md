@@ -12,7 +12,7 @@
 
 - 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  
 
-- 🙂😅  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor** 😁
+- 😅  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor**
       
 - 💬   `Lets interact on...`       **WhatsApp +2348177614958**
 
