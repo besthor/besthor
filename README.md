@@ -16,7 +16,7 @@
       
 - 💬   `Lets interact on...`       ***WhatsApp +2348177614958***
 
-<h2> If you would like to stay updated on my work and projects, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
+<h2> If you have found my resources or projects usesful and would love to stay updated on my work, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
 
 ## `Connect with me`
 
