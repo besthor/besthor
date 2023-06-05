@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" />
 
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
-  <br>Pleased to meet you, I'm Besthor Igbe</h1>
-<h3 style="font-family: Segoe Script;" align="center"> I am adaptable, resourceful and meticulous Full-stack developer. I am Open to connecting with tech-newbies, professionals, mentors, and potential collaborators. If you want to discuss a project, share insights, explore opportunities, or in need of a skilled developer to join your team, reach out to me. Let's create something remarkable together! Thank you for visiting my profile, and I look forward to connecting with you! </h3></br>
+  <br>Pleased to meet you, I'm Bes`thor </h1>
+<h3 style="font-family: Segoe Script;" align="center"> An adaptability, resourcefulness, and meticulousness Full-stack developer. I am open to connecting with individuals at all levels of technical expertise, whether they are tech-newbies, professionals, mentors, or potential collaborators. If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me.  </h3></br>
 
 ## `Get to Know Me`
 
@@ -12,7 +12,7 @@
 
 - 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  
 
-- 🙂  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor** 
+- 🙂😅  `Fun fact about me...`       **I speak fluent sarcasm and write code that's cleaner than a freshly-mopped floor** 😁
       
 - 💬   `Lets interact on...`       **WhatsApp +2348177614958**
 
