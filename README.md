@@ -2,7 +2,7 @@
 
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Bes`thor </h1>
-<h3 style="font-family: Segoe Script;" align="center"> An adaptability, resourcefulness, and meticulousness Full-stack developer. I am open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional. If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me.  </h3></br>
+<h3 style="font-family: Segoe Script;" align="center"> An adaptability, resourceful, and meticulous Full-stack developer. I am open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional. If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me.  </h3></br>
 
 ## `Get to Know Me`
 
