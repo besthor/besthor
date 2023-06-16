@@ -5,15 +5,10 @@
 <h3>If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the "Follow" button</h3>
 <br>
 
-## `Get to know me`
-- **I'm an adaptable, resourceful, and meticulous Full-stack developer**
-- 👀   `Interested in...`
-- **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
-
-- 🌱   `Currently learning...`
-- **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
+## `Get to know me` **I'm an adaptable, resourceful, and meticulous Full-stack developer**
+- 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
+- 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
 - **I'm open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional**
-
 - 📧   `Please Reachout on...`    
 - **If you have a project to discuss, opportunities or insights to share, or if you're in need of a skilled developer to join your team, feel free to reach out to me** ***igbebestor7@gmail.com***
 
