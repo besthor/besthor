@@ -45,7 +45,7 @@
 
 <h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
 
-## Thank you for your support!
+
 <!---
 <!---
 <!---
