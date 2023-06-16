@@ -7,10 +7,10 @@
 
 ## `Get to know me` **I'm an adaptable, resourceful, and meticulous Full-stack developer**
 - 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
-- 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
+- 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | React.js | Node.js | MySQL | Ruby | Puppet | Docker |**
 - **I'm open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional**
 - 📧   `Please Reachout on...`    
-- **If you have a project to discuss, opportunities or insights to share, or if you're in need of a skilled developer to join your team, feel free to reach out to me** ***igbebestor7@gmail.com***
+- **If you have opportunities or insights to share, or if in need of a skilled developer to join your team, feel free to reach out to me** ***igbebestor7@gmail.com***
 
 - 😅  `Fun fact about me...`       **Always speaking fluent Sarcasm and writing codes that are cleaner than a freshly-mopped floor**
       
