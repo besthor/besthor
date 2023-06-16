@@ -2,22 +2,21 @@
 
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
-
-## `Get to Know Me`
-- I'm an adaptability, resourceful, and meticulous Full-stack developer
+<h2> If you have found my resources or projects usesful and would love to stay updated on my work, please consider following me by clicking on this link www.github.com/besthor </h2>
+# `Get to Know Me`
+<h2> I'm an adaptability, resourceful, and meticulous Full-stack developer </h2>
 - 👀   `I’m interested in...`      **| Web Dev | DevOps | Ethical Hacking | Machine Learning | Artificial Intelligence |**
 
 - 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |** I am open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional
 
-- 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***  If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me
+- 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***
+<h2> If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me </h2>
 
 - 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write code that's cleaner than a freshly-mopped floor**
       
 - 💬   `Lets interact on...`       ***WhatsApp +2348177614958***
 
-<h2> If you have found my resources or projects usesful and would love to stay updated on my work, please consider following me on GitHub by clicking on this link www.github.com/besthor </h2>
-
-## `Connect with me`
+## `Connect with me` 
 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
