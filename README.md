@@ -2,10 +2,12 @@
 
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
-<h3>If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the "Follow" button</h3>
+<h3></h3>
 <br>
 
-## `Get to know me` **I'm an adaptable, resourceful, and meticulous Full-stack developer**
+## `Get to know me` 
+- **I'm an adaptable, resourceful, and meticulous Full-stack developer**
+- **If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the `Follow` button**
 - 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
 - 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | React.js | Node.js | MySQL | Ruby | Puppet | Docker |**
 - **I'm open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional**
