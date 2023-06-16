@@ -3,14 +3,15 @@
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
 <h3> If you have found my resources or projects usesful and would love to stay updated on my work, please consider following me by clicking on this link www.github.com/besthor </h3>
-`# Get to Know Me`
-<h3> I'm an adaptability, resourceful, and meticulous Full-stack developer </h3>
+`Get to Know Me`
+**I'm an adaptability, resourceful, and meticulous Full-stack developer**
 - 👀   `I’m interested in...`      **| Web Dev | DevOps | Ethical Hacking | Machine Learning | Artificial Intelligence |**
 
-- 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |** I am open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional
+- 🌱   `I’m currently learning...` **| Shell | C | Python | JavaScript | MySQL | Ruby | Puppet | React.js | Node.js |**
+- **I am open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional**
 
 - 📧   `Please Reachout on...`    ***igbebestor7@gmail.com***
-<h3> If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me </h3>
+- **If you have a project to discuss, insights to share, opportunities to explore, or if you're in need of a skilled developer to join your team, feel free to reach out to me**
 
 - 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write code that's cleaner than a freshly-mopped floor**
       
