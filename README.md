@@ -6,7 +6,7 @@
 <br>
 
 ## `Get to know me` 
-- **I'm an adaptable, resourceful, and meticulous Full-stack developer**
+- **I'm an adaptable, resourceful, and meticulous Full-stack developer known for my ability to explain complex technical subjects to a non-technical audience**
 - **If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the `Follow` button**
 - 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
 - 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | React.js | Node.js | MySQL | Ruby | Puppet | Docker |**
