@@ -6,17 +6,14 @@
 <br>
 
 ## `Get to know me` 
-- **I'm an adaptable, resourceful, and meticulous Full-stack developer known for my ability to explain complex technical subjects to a non-technical audience**
+- **I'm a tech savvy, adaptable, resourceful, and meticulous Full-stack developer known for my ability to explain complex technical subjects to a non-technical audience,  I excel at simplifying intricate ideas and explaining them in a way that empowers others to grasp and appreciate the underlying technology**
 - **If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the `Follow` button**
 - 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
 - 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | React.js | Node.js | MySQL | Ruby | Puppet | Docker |**
-- **I'm open to connecting with individuals at all levels of technical expertise, whether you're a tech-newbie or professional**
 - 📧   `Please Reachout on...`    
-- **If you have opportunities or insights to share, or if in need of a skilled developer to join your team, feel free to reach out to me** ***igbebestor7@gmail.com***
+- **If you have questions, opportunities or insights to share, or if in need of a skilled developer to join your team** ***igbebestor7@gmail.com***
 
-- 😅  `Fun fact about me...`       **Always speaking fluent Sarcasm and writing codes that are cleaner than a freshly-mopped floor**
-      
-- 💬   `Lets chit-chat on...`       ***WhatsApp +2348177614958***
+- 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write codes that are cleaner than a freshly-mopped floor**
 
 ## `Connect with me` 
 
