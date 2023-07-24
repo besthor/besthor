@@ -6,7 +6,8 @@
 <br>
 
 ## `Get to know me` 
-- **I'm an adaptable, resourceful, and meticulous Full-stack developer known for my ability to explain complex technical subjects to a non-technical audience,  I excel at simplifying intricate ideas and explaining them in a way that empowers others to grasp and appreciate the underlying technology**
+- **I'm an Adaptable, Resourceful, and Meticulous Full-stack Developer with a B.Eng in Mechanical Engineering. Adept in Back-End Development and experienced Software Engineering Intern at ALX Africa. Passionate about creating innovative solutions and sharing tech insights on my YouTube channel, "Besthor_Tech." Self-motivated and eager to contribute to transformative projects in the software development field.**
+- **I excel at simplifying intricate ideas and explaining them in a way that empowers others to grasp and appreciate the underlying technology**
 - **If you have found my resources or projects usesful and would love to stay updated on my work, please consider clicking on the `Follow` button**
 - 👀   `Interested in...` **| Web Dev | DevOps | Ethical Hacking | Artificial Intelligence |**
 - 🌱   `Currently learning...` **| Shell | C | Python | JavaScript | React.js | Node.js | MySQL | Ruby | Puppet | Docker |**
