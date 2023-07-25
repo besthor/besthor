@@ -55,12 +55,9 @@
 </div>
 
 ## `Thank you for visiting my profile, and I look forward to connecting with you!`
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
+
 
 <!---
 <!---
