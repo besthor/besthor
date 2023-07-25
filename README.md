@@ -14,11 +14,11 @@
  
   
 ## `Get to know me`
-- **I'm an Adaptable, Resourceful, and Meticulous Full-stack Developer with a B.Eng in Mechanical Engineering. Adept in Back-End Development and experienced Software Engineering Intern at ALX Africa. My Interest are in but not limited to... | Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
-- **I excel at simplifying intricate concepts and explaining them in a way that empowers others to grasp and appreciate the underlying technology. I also create innovative solutions and share tech insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
-- 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write codes that are cleaner than a freshly-mopped floor**
+- **I'm an Adaptable, Resourceful, and Meticulous Software Engineering Intern at ALX Africa with a B.Eng in Mechanical Engineering. Specializing in Back-end Development. My Interest are in but not limited to... | Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
+- **I excel at simplifying intricate concepts. I also create innovative solutions and share tech insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
+- 😅  `Fun fact about me...`   **I speak fluent Sarcasm and but can't write Bug-Free codes**
 - 📧 `Please Reach Me on...` ***igbebestor7@gmail.com*** **If you have questions, opportunities or insights to share, or if you're in need of a skilled developer to join your team**
-## `Connect with me`
+## `Let's Connect on`
 <p > 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
