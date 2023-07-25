@@ -39,15 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="600" height="200" /></p>
 <br/>
 
-<h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
-
-
-<!---
-<!---
-<!---
-besthor/besthor is a ✨  special ✨  repository because its `README.md` (this file) appears on your GitHub profile6
-You can click the Preview link to take a look at your changes.
---->
   </tr>
 </table>
 
@@ -56,12 +47,21 @@ You can click the Preview link to take a look at your changes.
     <table>
       <tr>
         <td>
-             <a href="http://www.github.com/besthor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ephantuz&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+             <a href="http://www.github.com/besthor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
       </tr>
   </table>
 </div>
 
+<h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
+
+
+<!---
+<!---
+<!---
+besthor/besthor is a ✨  special ✨  repository because its `README.md` (this file) appears on your GitHub profile6
+You can click the Preview link to take a look at your changes.
+--->
