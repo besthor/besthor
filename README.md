@@ -6,9 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Java+Developer+)](https://git.io/typing-svg)
-
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)   
+ 
 <p align="center">
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
