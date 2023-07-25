@@ -8,10 +8,6 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa)](https://git.io/typing-svg)
-
-<p align="right">
-<h1 style="font-family:script;" align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
- 
   
 ## `Get to know me`
 - **I'm an Adaptable, Resourceful, and Meticulous Software Engineering Intern at ALX Africa with a B.Eng in Mechanical Engineering. Specializing in Back-end Development. My Interest are in but not limited to... | Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
