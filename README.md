@@ -1,14 +1,6 @@
 <div align="left">
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
-
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋 ;I'm+Besthor...;an+Adept+Back-end+Developer;And+a+Software+Engineering+Intern+@ALX_AFRICA;Welcome+to+my+hubspace!;&center=true&size=20">
