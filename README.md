@@ -6,7 +6,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa)](https://git.io/typing-svg)
 
 <p align="center">
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
