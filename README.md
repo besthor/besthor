@@ -7,9 +7,6 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer+and+Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## `Get to know me`
