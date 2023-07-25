@@ -62,7 +62,7 @@
 https://instagram.com/coding.ninjas?igshid=1q6tjorvxtttj
 
 <div id="header" align="center">
-  <img src="https://instagram.com/coding.ninjas?igshid=1q6tjorvxtttj" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
 </div>
 <!---
 <!---
