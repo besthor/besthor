@@ -53,7 +53,9 @@
   </table>
 </div>
 
-## `Thank you for visiting my profile, and I look forward to connecting with you!`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Thank+you+for+visiting+my+profile;I+look+forward+to+connecting+with+you!)](https://git.io/typing-svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 
