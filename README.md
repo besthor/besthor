@@ -8,7 +8,7 @@
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
 <h3></h3>
-  <br>
+<br>
 ## `Get to know me`
 - **I'm an Adaptable, Resourceful, and Meticulous Full-stack Developer with a B.Eng in Mechanical Engineering. Adept in Back-End Development and experienced Software Engineering Intern at ALX Africa. My Interest are in but not limited to... | Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
 - **I excel at simplifying intricate concepts and explaining them in a way that empowers others to grasp and appreciate the underlying technology. I also create innovative solutions and share tech insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
