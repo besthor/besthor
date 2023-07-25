@@ -53,17 +53,11 @@ You can click the Preview link to take a look at your changes.
     <table>
       <tr>
         <td>
-             <a href="http://www.github.com/Ephantuz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ephantuz&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+             <a href="http://www.github.com/besthor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ephantuz&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
       </tr>
   </table>
 </div>
-
-[![Ephantuz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ephantuz&theme=github-compact)](https://github.com/Ephantuz/github-readme-activity-graph)
-
-
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
