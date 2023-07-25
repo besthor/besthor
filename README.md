@@ -30,14 +30,11 @@
 #
 ![](https://dg1xqmhtoint1.cloudfront.net/img/vadodara/blog/software-app.webp?mtime=20220905155852&focal=none)
 
-## `My Stack:`
-
-##
-## Skills
+## 🔧  `Languages & Tools`
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,node,c,mysql,php,rubby,docker,nginx,haproxy,postgresql,django,express,mysql,nextjs,nodejs,python,react,redis,tailwind,ts,vim,html5,firebase,git,mongodb,vagrant,linux,azure&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,ts,django,mysql,postgresql,mongodb,php,Rubby,puppet,docker,nginx,HAproxy,django,express,redis,firebase,html5,css,tailwind,vim,bash,restAPI,git,vagrant,linux=13" />
   </a>
 </p>
 # 
