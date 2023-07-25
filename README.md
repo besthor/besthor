@@ -34,10 +34,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,ts,django,mysql,postgresql,mongodb,php,Rubby,puppet,docker,nginx,HAproxy,django,express,redis,firebase,html5,css,tailwind,vim,bash,restAPI,git,vagrant,linux=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,django,mysql,postgresql,mongodb,php,rubby on rails,Puppet,docker,nginx,express,redis,firebase,html,css,tailwind,vim,bash,git,vagrant,linuxazure&perline=13" />
   </a>
 </p>
-# 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=true" width="600" height="200" /></p>
 
   </tr>
@@ -55,7 +55,7 @@
 </div>
 
 <h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
