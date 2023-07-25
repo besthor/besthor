@@ -34,10 +34,7 @@
 ##
 
 # 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=false" width="600" height="200" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&theme=dark" alt="besthor" width="600" height="200" /></p>
-<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=true" width="600" height="200" /></p>
 
   </tr>
 </table>
