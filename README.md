@@ -1,8 +1,13 @@
 <div align="left">
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
-  
-<img src="https://github.com/Besthor/Besthor/blob/master/72Us.gif" width="850" height="700" />
+
+
+<div id="header" align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
+</div>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
@@ -61,9 +66,7 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
-</div>
+
 <!---
 <!---
 <!---
