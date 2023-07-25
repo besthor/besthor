@@ -4,7 +4,7 @@
   
 <img src="https://github.com/Besthor/Besthor/blob/master/72Us.gif" width="850" height="500" />
 
-<align="center">
+<h1 align="center">
 <h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
   <br>Pleased to meet you, I'm Besthor Igbe </h1>
 <h3></h3>
