@@ -1,19 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besthor&label=Profile%20views&color=0e75b6&style=flat" alt="besthor" />
-
-<h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
-  <br>Pleased to meet you, I'm Besthor Igbe </h1>
-<h3></h3>
-<br>
-
-## `Get to know me` 
-
-- **I'm an Adaptable, Resourceful, and Meticulous Full-stack Developer with a B.Eng in Mechanical Engineering. Adept in Back-End Development and experienced Software Engineering Intern at ALX Africa. Eager to contribute to transformative projects in the software development field.**
-- `My Interest are in but not limited to...` **| Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
-- **I excel at simplifying intricate concepts and explaining them in a way that empowers others to grasp and appreciate the underlying technology. I also create innovative solutions and share tech insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
-
-- 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write codes that are cleaner than a freshly-mopped floor**
-- `Please Reach Me on...`  📧  ***igbebestor7@gmail.com*** **If you have questions, opportunities or insights to share, or if you're in need of a skilled developer to join your team** 
-
 ## `Connect with me` 
 
 <p align="left">
@@ -23,7 +8,17 @@
 <a href="https://youtube.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor7" height="30" width="40" /></a>
 
 </p>
+<h1 style="font-family:script;" align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="70px">
+  <br>Pleased to meet you, I'm Besthor Igbe </h1>
+<h3></h3>
+<br>
 
+## `Get to know me` 
+- **I'm an Adaptable, Resourceful, and Meticulous Full-stack Developer with a B.Eng in Mechanical Engineering. Adept in Back-End Development and experienced Software Engineering Intern at ALX Africa. My Interest are in but not limited to...` **| Front-end & Back-end Development | DevOps | System Infrastructure | Ethical Hacking | Artificial Intelligence |**
+- **I excel at simplifying intricate concepts and explaining them in a way that empowers others to grasp and appreciate the underlying technology. I also create innovative solutions and share tech insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
+- 😅  `Fun fact about me...`       **I speak fluent Sarcasm and write codes that are cleaner than a freshly-mopped floor**
+- 📧 `Please Reach Me on...`   **If you have questions, opportunities or insights to share, or if you're in need of a skilled developer to join your team**  ***igbebestor7@gmail.com***
+#
 ![](https://dg1xqmhtoint1.cloudfront.net/img/vadodara/blog/software-app.webp?mtime=20220905155852&focal=none)
 
 ## `My Stack:`
