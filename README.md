@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,postgresql,mongodb,php,puppet,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,vagrant,linux,azure&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,puppet,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,azure&perline=13" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 </div>
 
 <h1> Thank you for visiting my profile, and I look forward to connecting with you!</h1>
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
