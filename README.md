@@ -1,12 +1,9 @@
-**<img src="https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS" style="font-weight:bold;">**
-
-
 <div align="left">
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
   
 <img src="https://github.com/Besthor/Besthor/blob/master/72Us.gif" width="850" height="700" />
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
