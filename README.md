@@ -34,11 +34,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,puppet,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,azure&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,azure&perline=13" />
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=true" width="600" height="200" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=true" width="800" height="200" /></p>
 
   </tr>
 </table>
