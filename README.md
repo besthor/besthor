@@ -9,11 +9,13 @@
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at ALX Africa with a B.Eng in Mechanical Engineering, specializing in back-end development.**
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Please+Subscribe+to+my+YouTube+Channel+)](https://git.io/typing-svg)
 - 📧 For inquiries, opportunities, or if you need a skilled developer to join your team, please email me at ***igbebestor7@gmail.com***
 - 😅  `Fun fact about me...`   **I speak fluent sarcasm but can't write bug-free code**
   
-## `Let's Connect on`
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=3000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Let's+Connect+on+%3D%3E)](https://git.io/typing-svg)
+
 <p > 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
@@ -30,8 +32,8 @@
 #
 ![](https://dg1xqmhtoint1.cloudfront.net/img/vadodara/blog/software-app.webp?mtime=20220905155852&focal=none)
 
-## 🔧  `Languages & Tools`
-
+# 🔧  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=3000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,azure&perline=13" />
