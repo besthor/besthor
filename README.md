@@ -61,16 +61,9 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 
 
-#
 
 ![](https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif)
 
-#
-
-![](https://giffiles.alphacoders.com/359/35998.gif)
-
-#
-![](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
 
 #
 ![](https://images.pond5.com/binary-code-wall-animation-075835473_prevstill.jpeg)
