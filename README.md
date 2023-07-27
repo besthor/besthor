@@ -10,7 +10,7 @@
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
 - 📧 **For inquiries, opportunities, or if you need a skilled developer to join your team, please email me at** ***igbebestor7@gmail.com***
-- `Fun fact about me...`   **I speak fluent sarcasm but can't write bug-free code 😅  😅 **
+- `Fun fact about me...`   **I speak fluent sarcasm but can't write bug-free code** 😅  😅 
   
 ## `Let's Connect`
 
