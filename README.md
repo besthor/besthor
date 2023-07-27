@@ -56,7 +56,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
 </div>
 
-
+<p align="center">
+  <img src="https://github.com/besthor/besthor/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
+  <img src="https://github.com/besthor/besthor/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
+</p>
 
 <!---
 <!---
