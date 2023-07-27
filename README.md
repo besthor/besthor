@@ -9,7 +9,7 @@
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at ALX Africa with a B.Eng in Mechanical Engineering, specializing in back-end development.**
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
-- **For inquiries, opportunities, or if you need a skilled developer to join your team, please email me @** 📧 ***igbebestor7@gmail.com***
+- **For inquiries, opportunities, or if you need a skilled developer to join your team, please email me at** 📧 ***igbebestor7@gmail.com***
 - `Fun fact about me...`  **I speak fluent sarcasm but can't write bug-free code** 😅  😅
 - `Favorite Quotes:` **If you're always trying to be Normal, you'll never know how amazing you can be!**
 
