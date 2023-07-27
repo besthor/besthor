@@ -39,11 +39,6 @@
   <img src="https://github.com/besthor/besthor/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besthor&layout=compact&theme=dark&hide_border=true" width="800" height="200" /></p>
-
-  </tr>
-</table>
-
 
 <div align="center">
     <table>
