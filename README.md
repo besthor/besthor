@@ -3,17 +3,18 @@
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=3000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=3000&pause=2000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## `Get to know me`
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at ALX Africa with a B.Eng in Mechanical Engineering, specializing in back-end development.**
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
 - **For inquiries, opportunities, or if you need a skilled developer to join your team, please email me at** 📧 ***igbebestor7@gmail.com***
+- `A selection of my technical articles`
+- **[What happens when you type google.com](https://medium.com/@besthor/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-6fabb1389cd9)**
+- **[My first postmortem](https://medium.com/@besthor/my-first-postmortem-68aeab85f0ef)**
 - `Fun fact about me`  **I speak fluent sarcasm but can't write bug-free code** 😅  😅
 - `Favorite Quote:` **If you're always trying to be Normal, you'll never know how amazing you can be!**
-
-  
 ## `Let's Connect`
 
 <p > 
