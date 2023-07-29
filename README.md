@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=3000&pause=2000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## `Get to know me`
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
