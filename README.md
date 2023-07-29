@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=3000&pause=2000&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## `Get to know me`
-- **I'm an adaptable, resourceful, and meticulous software engineering intern at ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png) [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
+- **I'm an adaptable, resourceful, and meticulous software engineering intern at ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-50x70.png) [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
 - **For inquiries, opportunities, or if you need a skilled developer to join your team, please send a mail** 📧 ***igbebestor7@gmail.com***
