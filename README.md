@@ -9,14 +9,14 @@
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
-- **For inquiries, opportunities, or if you need a skilled developer to join your team, please send a** 📧 **[mail](besthortechhub@gmail.com)**
-- `A selection of my technical articles`
--  **[How to backup your web servers](https://github.com/besthor/how-to_backup_your_servers/blob/main/server_backup.md)**
+- **For inquiries, opportunities, or if you need a skilled developer to join your team, please send a** 📧 **[Mail](besthortechhub@gmail.com)**
+- ### `A selection of my technical articles`
+-  **[How to backup your Web Servers](https://github.com/besthor/how-to_backup_your_servers/blob/main/server_backup.md)**
 -  **[What happens when you type "google.com" and press enter](https://medium.com/@besthor/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-6fabb1389cd9)**
 -  **[My first Postmortem experience](https://medium.com/@besthor/my-first-postmortem-68aeab85f0ef)**
 -  **[Command line for the win](https://github.com/besthor/alx-system_engineering-devops/blob/master/command_line_for_the_win/how_to_play_the_game.txt)**
-- `Fun fact about me`  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
-- `Favorite Quote:` **If you're always trying to be Normal, you'll never know how amazing you can be!**
+- **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
+- **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
 ## `Let's Connect`
 
 <p > 
