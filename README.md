@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,azure&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,vagrant&perline=13" />
   </a>
 </p>
 <p align="center">
@@ -58,11 +58,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
 </div>
 
-
-<!-- https://github.com/besthor/github-readme-activity-graph -->
-<a href="https://github.com/besthor/github-readme-activity-graph"><img alt="Besthor Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=besthor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DevStella Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LadegbayeStella&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <!---
 <!---
 <!---
