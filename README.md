@@ -4,7 +4,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'm+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
-
+#
+![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## `Get to know me`
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
