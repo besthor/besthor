@@ -16,8 +16,8 @@
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
 
-## `Let's Connect`
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>`Let's Connect`</b>
 <p > 
 <p align="left">
 <a href="https://linkedin.com/in/bestor igbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="30" width="40" /></a>
