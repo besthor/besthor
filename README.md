@@ -26,7 +26,7 @@
 </p>
 
 
-## <b> `Tech Stack:`</b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
@@ -44,6 +44,15 @@
   <img src="https://github.com/besthor/besthor/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
 </p>
 
+
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&" alt="besthor" /><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=besthor&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</p> 
 
 <div align="center">
     <table>
