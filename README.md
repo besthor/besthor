@@ -12,13 +12,9 @@
 - **My interests include Front-end & Back-end Development, DevOps, System Infrastructure, Ethical Hacking, and Artificial Intelligence**
 - **I excel at simplifying complex concepts and now share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
 - **For inquiries, opportunities, or if you need a skilled developer to join your team, please send an**  **[Email](besthortechhub@gmail.com)** 📧
-- ### `A selection of my technical articles`
--  **[How to backup your Web Servers](https://github.com/besthor/how-to_backup_your_servers/blob/main/server_backup.md)**
--  **[What happens when you type "google.com" and press enter](https://medium.com/@besthor/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-6fabb1389cd9)**
--  **[My first Postmortem experience](https://medium.com/@besthor/my-first-postmortem-68aeab85f0ef)**
--  **[Command line for the win](https://github.com/besthor/alx-system_engineering-devops/blob/master/command_line_for_the_win/how_to_play_the_game.txt)**
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
+
 ## `Let's Connect`
 
 <p > 
@@ -29,8 +25,6 @@
 <a href="https://youtube.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor7" height="30" width="40" /></a>
 </p>
 
-#
-![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## 🔧  `Languages & Tools`
 
@@ -39,6 +33,13 @@
     <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
   </a>
 </p>
+
+- ### `A selection of my technical articles`
+-  **[How to backup your Web Servers](https://github.com/besthor/how-to_backup_your_servers/blob/main/server_backup.md)**
+-  **[What happens when you type "google.com" and press enter](https://medium.com/@besthor/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-6fabb1389cd9)**
+-  **[My first Postmortem experience](https://medium.com/@besthor/my-first-postmortem-68aeab85f0ef)**
+-  **[Command line for the win](https://github.com/besthor/alx-system_engineering-devops/blob/master/command_line_for_the_win/how_to_play_the_game.txt)**
+
 <p align="center">
   <img src="https://github.com/besthor/besthor/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
   <img src="https://github.com/besthor/besthor/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
