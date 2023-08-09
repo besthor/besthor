@@ -33,14 +33,9 @@
   </a>
 </p>
 
-- ### `A selection of my technical articles`
--  **[How to backup your Web Servers](https://github.com/besthor/how-to_backup_your_servers/blob/main/server_backup.md)**
--  **[What happens when you type "google.com" and press enter](https://medium.com/@besthor/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-6fabb1389cd9)**
--  **[My first Postmortem experience](https://medium.com/@besthor/my-first-postmortem-68aeab85f0ef)**
--  **[Command line for the win](https://github.com/besthor/alx-system_engineering-devops/blob/master/command_line_for_the_win/how_to_play_the_game.txt)**
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&" alt="besthor" /><br><br>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=besthor&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </p> 
