@@ -26,8 +26,8 @@
 <a href="https://youtube.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor7" height="30" width="40" /></a>
 </p>
 
-## 🔧  `Tech Stack:`
 
+25"><b>Tech Stack</b>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
