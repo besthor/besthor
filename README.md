@@ -40,15 +40,6 @@
 -  **[Command line for the win](https://github.com/besthor/alx-system_engineering-devops/blob/master/command_line_for_the_win/how_to_play_the_game.txt)**
 
 <p align="center">
-  <img src="https://github.com/besthor/besthor/blob/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics Card" title="GitHub Statistics"/>
-  <img src="https://github.com/besthor/besthor/blob/main/generated/languages.svg#gh-dark-mode-only" alt="Used Languages Card" title="Used Languages"/>
-</p>
-
-
-<p align="center">
-  <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
-</p>
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&" alt="besthor" /><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=besthor&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=besthor&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
