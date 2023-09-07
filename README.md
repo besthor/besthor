@@ -9,9 +9,9 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor7" height="40" width="50" /></a>
+<a href="https://instagram.com/_besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/besthor-igbe-262b4418a/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="40" width="50" /></a>
-<a href="https://instagram.com/_besthor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="40" width="50" /></a>
 <a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="40" width="50" /></a>
 </p>
 
