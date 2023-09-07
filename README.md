@@ -19,10 +19,10 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
+- **I am an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development, with a B.Eng in Mechanical Engineering.**
 - **I share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
-- **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
-- **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
+- **`Fun fact about me`**  **I speak fluent sarcasm but can not write bug-free codes** 😅  😅
+- **`Favorite Quote:`** **If you are always trying to be Normal, you will never know how amazing you can be!**
 - **For inquiries or opportunities, please send me an e-mail** ***besthortechhub@gmail.com***
 
 
