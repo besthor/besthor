@@ -20,7 +20,7 @@
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm a resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end**
-- **A Learning Ambassador, mentoring and grooming a class of 200+ and assisting over 65% of Interns excel in their various programmes.**
+- **A Learning Ambassador, mentoring and grooming a class of** ***200+*** **and assisting over** ***65%*** **of Interns excel in their various programmes.**
 - **Checkout my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw) for innovative tech solutions and insights** 
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If at first you don't succeed,** call it ***version 1.0***
