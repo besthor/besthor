@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I+am+Besthor%2Can+Adept+Back-End+Developer;Software+Engineering+graduate+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'am+Besthor%2Can+Adept+Back-End+Developer;Graduate+of+Software+Engineering+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
@@ -19,10 +19,11 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I'm an adaptable, resourceful, and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) [class of 2023](17-short-specializations-certificate-bestor-igbe). With a specialization in back-end development and a B.Eng in Mechanical Engineering.**
-- **Now sharing innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
-- **`Fun fact about me`**  **I speak fluent sarcasm but can not write bug-free codes** 😅  😅
-- **`Favorite Quote:`** **If you are always trying to be Normal, you will never know how amazing you can be!**
+- **I'm a resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end**
+- **A Learning Ambassador, mentoring and grooming a class of 200+ and assisting over 65% of Interns excel in their various programmes.**
+- **Checkout my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw) for innovative tech solutions and insights** 
+- **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
+- **`Favorite Quote:`** **If at first you don't succeed,** call it ***version 1.0***
 - **For inquiries or opportunities, please send me an e-mail** ***besthortechhub@gmail.com***
 
 
