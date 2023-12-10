@@ -19,7 +19,7 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I'm a resourceful and meticulous software engineering graduate with a specialization in Back-end development from `[ALX Africa](https://www.alxafrica.com/about/)`. A Learning Ambassador mentoring a class of over** ***`200+`*** **with over** ***`65%`*** **of Interns excel in their various programmes. I also share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
+- **I'm a resourceful and meticulous software engineering graduate with a specialization in Back-end development from [ALX Africa](https://www.alxafrica.com/about/). A Learning Ambassador mentoring a class of over** ***`200+`*** **with over** ***`65%`*** **of Interns excel in their various programmes. I also share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If at first you don't succeed,** **call it** ***`version 1.0`***
 - **For inquiries or opportunities, please send me an e-mail** ***`besthortechhub@gmail.com`***
