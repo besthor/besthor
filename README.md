@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My name's+Besthor%2Can+Adept+Back-End+Developer;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My names+Besthor%2Can+Adept+Back-End+Developer;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
