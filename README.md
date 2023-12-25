@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hi+there!+Pleased+to+meet+you;I'am+Besthor%2Can+Adept+Back-End+Developer;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My name's+Besthor%2Can+Adept+Back-End+Developer;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
@@ -18,9 +18,9 @@
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
-## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I'm a resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end development. A Learning Ambassador mentoring various Cohorts** **with over** ***`70%`*** **of Interns excelling in their programmes.**
-- **I also share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)** 
+## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+- **I'm a resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with an obsession for nearly anything tech-related and a specialization in Back-end development. I work as a freelance full-stack developer and an online instructor mentoring various Cohorts** **with over** ***`70%`*** **of Interns excelling in their programmes..**
+- **I also run a YouTube channel called `besthor_tech` with just `6` videos and nearly `30,000` Views. So feel free to browse through some of my latest free tutorials if you want to check out my teaching style :) [YouTube Channel](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw)**
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If at first you don't succeed,** **call it** ***`version 1.0`***
 - **For inquiries or opportunities, please send me an e-mail** ***`besthortechhub@gmail.com`***
