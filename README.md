@@ -23,7 +23,7 @@
 - **I also run a YouTube channel called [besthor_tech](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw) with just [6](https://www.youtube.com/@besthor_tech/playlists) videos and over** ***`30,000`*** **views. So feel free to browse through some of my latest free tutorials if you want to check out my teaching style**
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If at first you don't succeed,** **call it** ***`version 1.0`***
-- **For inquiries or opportunities, please send a mail** ***besthortechhub@gmail.com*** **or WhatsApp Only** ***`+2349021481370`***
+- **For inquiries or opportunities, please send a mail** ***besthortechhub@gmail.com***
 
 
 
