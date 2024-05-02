@@ -19,12 +19,12 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **a resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end development and an obsession for nearly anything tech-related. I'm looking forward to discovering how to improve my development experience! I work as a freelance full-stack developer and an online instructor mentoring various Cohorts** **with over** ***`70%`*** **of Interns excelling in their programmes**
+- **A resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end development and an obsession for nearly anything tech-related. I'm looking forward to discovering how to improve my development experience! I work as a freelance full-stack developer and an online instructor mentoring various Cohorts** **with over** ***`70%`*** **of Interns excelling in their programmes**
 - **I also run a YouTube channel called [besthor_tech](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw) with just [6](https://www.youtube.com/@besthor_tech/playlists) videos and over** ***`40,000`*** **views. So feel free to browse through some of my latest free tutorials if you want to check out my teaching style**
 - **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If at first you don't succeed,** **call it** ***`version 1.0`***
 - **For inquiries or opportunities, please send a mail** ***besthortechhub@gmail.com***
-- **`WhatsApp`**  **+2349021481370**
+- **`WhatsApp`**  ***+2349021481370***
 
 
 
