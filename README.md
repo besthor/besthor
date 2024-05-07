@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My+name's+Besthor%2Can+Adept+Back-End+Dev;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=1500&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My+name's+Besthor%2Can+Adept+Back-End+Dev;Software+Alumnus+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
@@ -15,19 +15,16 @@
 <a href="https://twitter.com/besthor7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="40" width="50" /></a>
 </p>
 
+- **Proficient software engineer, honed at ALX Holberton Africa, specialized in Back-end mastery.**
+- **Online instructor with a ***70%*** success rate mentoring cohorts**
+- **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(40,000 views and counting!)***
+- **Fluent in sarcasm and the art of debugging. Favorite mantra: "If at first you don't succeed, call it version 1.0"**
+- **Reach out at besthortechhub@gmail.com or WhatsApp +2349021481370 for a tech-tastic chat!**
+
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **A resourceful and meticulous software engineering graduate from [ALX Africa](https://www.alxafrica.com/about/) with a specialization in Back-end development and an obsession for nearly anything tech-related. I'm looking forward to discovering how to improve my development experience! I work as a freelance full-stack developer and an online instructor mentoring various Cohorts** **with over** ***`70%`*** **of Interns excelling in their programmes**
-- **I also run a YouTube channel called [besthor_tech](https://www.youtube.com/channel/UCVLwEYPiV1omTB-8ZQAioyw) with just [6](https://www.youtube.com/@besthor_tech/playlists) videos and over** ***`40,000`*** **views. So feel free to browse through some of my latest free tutorials if you want to check out my teaching style**
-- **`Fun fact about me`**  **I speak fluent sarcasm but can't write bug-free codes** 😅  😅
-- **`Favorite Quote:`** **If at first you don't succeed,** **call it** ***`version 1.0`***
-- **For inquiries or opportunities, please send a mail** ***besthortechhub@gmail.com***
-- **`WhatsApp`**  ***+2349021481370***
-
-
-
 
 ## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
