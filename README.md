@@ -20,7 +20,7 @@
 - **Online instructor with a ***70%*** success rate mentoring cohorts**
 - **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(50,000 views and counting!)***
 - **Fluent in sarcasm and the art of debugging.**
-- **Favorite mantra: "Strive for Progress Not Perfection"**
+- **Favorite quote:"Code is like humor. When you have to explain it, it’s bad"**
 - **Reach out at besthortechhub@gmail.com or WhatsApp +2349021481370 for a tech-tastic chat!**
 
 #
