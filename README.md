@@ -18,10 +18,10 @@
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **Proficient software engineer, honed at ALX-Holberton School, specialized in Back-end mastery.**
 - **Online instructor with a ***70%*** success rate mentoring cohorts**
-- **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(50,000 views and counting!)***
+- **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(55,000 views and counting!)***
 - **Fluent in sarcasm and the art of debugging.**
-- **Favorite quote:"Code is like humor. When you have to explain it, it’s bad"**
-- **Reach out at besthortechhub@gmail.com or WhatsApp +2349021481370 for a tech-tastic chat!**
+- **Favorite exercise: Loops, because i never stop until i hit my goal"**
+- **Reach out at besthortechhub@gmail.com**
 
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
