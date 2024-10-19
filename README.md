@@ -20,7 +20,7 @@
 - **Online instructor with a ***70%*** success rate mentoring cohorts**
 - **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(55,000 views and counting!)***
 - **Fluent in sarcasm and the art of debugging.**
-- **Favorite exercise: Loops, because i never stop until i hit my goal"**
+- **Favorite exercise: Loops, because i never stop until i hit my goal**
 - **Reach out at besthortechhub@gmail.com**
 
 #
