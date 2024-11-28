@@ -16,12 +16,12 @@
 </p>
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **Proficient software engineer, honed at ALX-Holberton School, specialized in Back-end mastery.**
-- **Online instructor with a ***70%*** success rate mentoring cohorts**
-- **Producer of engaging tech tutorials on [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) YouTube channel** ***(55,000 views and counting!)***
-- **Fluent in sarcasm and the art of debugging.**
-- **Favorite exercise: Loops, because i never stop until i hit my goal**
-- **Reach out at besthortechhub@gmail.com**
+- **I’m a Proficient Software Engineer honed at ALX-Holberton School, specialized in Back-End Development and delivering scalable, efficient solutions.**
+- **As an Online Instructor, I’ve guided cohorts to success with over 70% completion rate, fostering the next generation of tech talent**
+- **I also create engaging, high-impact tech tutorials on my YouTube channel[besthor_tech](https://www.youtube.com/@besthor_tech/playlists) with ***55,000+ views*** and growing—focused on breaking down complex concepts for developers.**
+- **When I’m not coding, I’m debugging or deploying 😛😛**
+- **My favorite workout? Loops—because I never quit until I reach my goal.**
+- **📩 Let’s connect: besthortechhub@gmail.com **
 
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
