@@ -17,7 +17,7 @@
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm a proficient Software Engineer trained at ALX-Holberton School, with a strong focus on Back-End Development and building scalable, efficient systems..**
-- **I also run a growing YouTube channel** [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) where I simplify complex tech concepts through engaging tutorials, with ***62,529+ views and counting***
+- **I also run a growing YouTube channel** [besthor_tech](https://www.youtube.com/@besthor_tech/playlists) where I simplify complex tech concepts through engaging tutorials, with ***62,874+ views and counting***
 - **As an Online Instructor, I’ve mentored tech cohorts with a 70%+ completion rate, helping shape the next generation of developers**
 - **Whether I’m coding, debugging, or deploying, I'm passionate about continuous learning and sharing knowledge.**
 - **My favorite workout? Loops—because I never quit until I reach my goal.**
